@@ -1,4 +1,4 @@
-# NEURAL NETWORK - SMARTHPHONE
+# NEURAL NETWORK - SMARTHPHONE 
 
 * Applied Neural Network Machine Learning to Predict human activity using smartphone sensor data.
 
@@ -37,7 +37,7 @@ Note: This dataset has already been scaled
 * Made a prediction with one data point (1,561) array
 * With 94% of accuracy, the prediction was made which was STANDING for this data point. 
 
-## Tools Used 
+## Tools Used for this case
 * Pyton
 * Pandas
 * Numpy
